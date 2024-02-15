@@ -1,0 +1,32 @@
+Politika privatnosti
+
+Ova aplikacija, Yamb Listic, ne prikuplja nikakve podatke od korisnika. Svrha ove aplikacije je jednostavno beleženje rezultata igre Yamb, koja se fizički igra bacanjem kockica, bez potrebe za unosom ili prikupljanjem bilo kakvih ličnih podataka.
+
+Prikupljanje podataka
+
+Ova aplikacija ne prikuplja nikakve lične podatke, informacije o korisniku, podatke o uređaju ili bilo kakve druge podatke.
+
+Korišćenje podataka
+
+S obzirom na to da ova aplikacija ne prikuplja podatke od korisnika, nema korišćenja podataka u bilo koje svrhe.
+
+Kontakt
+
+Ako imate bilo kakvih pitanja ili nedoumica u vezi sa politikom privatnosti ove aplikacije, slobodno nas kontaktirajte putem e-pošte na ivica.rakovic1988.sd@gmail.com
+
+
+Privacy Policy
+
+This application, Yamb Score Tracker, does not collect any data from users. The purpose of this application is simply to record the results of the Yamb game, which is played physically by rolling dice, without the need for input or collection of any personal data.
+
+Data Collection
+
+This application does not collect any personal data, user information, device data, or any other data.
+
+Use of Data
+
+Since this application does not collect data from users, there is no use of data for any purpose.
+
+Contact
+
+If you have any questions or concerns regarding the privacy policy of this application, feel free to contact us via email at ivica.rakovic1988.sd@gmail.com.
